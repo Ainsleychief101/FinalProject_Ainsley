@@ -1,0 +1,15 @@
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\bin\Debug\net6.0\PersonalProject.exe
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\bin\Debug\net6.0\PersonalProject.deps.json
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\bin\Debug\net6.0\PersonalProject.runtimeconfig.json
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\bin\Debug\net6.0\PersonalProject.dll
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\bin\Debug\net6.0\PersonalProject.pdb
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.csproj.AssemblyReference.cache
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.AssemblyInfoInputs.cache
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.AssemblyInfo.cs
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.csproj.CoreCompileInputs.cache
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.dll
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\refint\PersonalProject.dll
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.pdb
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\PersonalProject.genruntimeconfig.cache
+C:\Users\phelpain\Downloads\AinsleyPhelps\introtoprogramming_AinsleyPhelps\AverageCalculator\RandomCode\PersonalProject\PersonalProject\obj\Debug\net6.0\ref\PersonalProject.dll
